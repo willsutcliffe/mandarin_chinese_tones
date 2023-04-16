@@ -1,5 +1,4 @@
 import streamlit as st
-from audio_recorder_streamlit import audio_recorder
 from scipy.io.wavfile import read
 import io
 import torch.nn as nn
