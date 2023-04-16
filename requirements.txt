@@ -3,3 +3,5 @@ streamlit
 torch==1.13.1+cpu
 torchaudio
 sounddevice
+numpy
+scipy
